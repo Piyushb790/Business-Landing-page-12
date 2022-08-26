@@ -15,7 +15,9 @@ body {
   min-height: 100vh;
   padding: 0 15%;
 }
-
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+/* ------------------------------ */
 .navbar {
   width: 100%;
   display: flex;
@@ -68,6 +70,9 @@ nav ul li a:hover {
   font-size: 15px;
   cursor: pointer;
 }
+<!-- /* ------------------------------ */
+/* ---------- SECTION-1 ------------ */
+/* ------------------------------ */ -->
 .container1 {
   margin-top: 60px;
   display: flex;
@@ -118,7 +123,9 @@ nav ul li a:hover {
   border: none;
   cursor: pointer;
 }
-
+<!-- /* ------------------------------ */
+/* ---------- SECTION-2 ------------ */
+/* ------------------------------ */ -->
 .container2 {
   margin-top: 60px;
   min-height: 100vh;
@@ -170,7 +177,9 @@ nav ul li a:hover {
   margin: auto;
   width: 1000px;
 }
-
+<!-- /* ------------------------------ */
+/* ---------- SECTION-3 ------------ */
+/* ------------------------------ */ -->
 .container3 {
   margin-top: 60px;
   min-height: 70vh;
@@ -230,7 +239,9 @@ nav ul li a:hover {
   border: none;
   cursor: pointer;
 }
-
+<!-- /* ------------------------------ */
+/* ---------- SECTION-4 ------------ */
+/* ------------------------------ */ -->
 .container4 {
   min-height: 70vh;
   padding: 0 15%;
@@ -278,7 +289,9 @@ nav ul li a:hover {
   line-height: 180%;
   width: 450px;
 }
-
+<!-- /* ------------------------------ */
+/* ---------- SECTION-5 ------------ */
+/* ------------------------------ */ -->
 .container5 {
   min-height: 70vh;
   padding: 0 15%;
@@ -327,7 +340,9 @@ nav ul li a:hover {
   line-height: 180%;
   width: 450px;
 }
-
+/* ------------------------------ */
+/* ---------- SECTION-6 ------------ */
+/* ------------------------------ */
 .container7 {
   margin-top: 120px;
   min-height: 70vh;
@@ -395,7 +410,9 @@ nav ul li a:hover {
   border: none;
   cursor: pointer;
 }
-
+<!-- /* ------------------------------ */
+/* ---------- FOOTER_SECTION ------------ */
+/* ------------------------------ */ -->
 .container8 {
   background-color: #10181d;
   margin-top: 80px;
@@ -453,7 +470,9 @@ nav ul li a:hover {
   font-size: 25px;
   font-weight: 600;
 }
-
+/* ------------------------------ */
+/* ---------- media queries ------------ */
+/* ------------------------------ */
 @media screen and (max-width: 520px) {
   .navbar nav ul {
     visibility: hidden;
